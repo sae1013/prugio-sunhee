@@ -15,7 +15,7 @@ export default function Home() {
         sloganSrc="/images/sections/main_brand_slogan.png"
         lines={[
           "업성 푸르지오 레이크시티",
-          "입주까지 계약금 단 천만원",
+          "1차 계약금 단 천만원",
           "선착순 로얄 동·호수 분양",
         ]}
       />
